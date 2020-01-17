@@ -79,7 +79,7 @@
         "Git/GitHub",
         "Team Foundation Server",
         "Microsoft Visual Studio Team Services",
-        "Gephi",
+        "Gephi"
       ]
     }
   ],
@@ -93,7 +93,7 @@
       "gpa": "4.0",
       "courses": [
         "Network Science",
-        "Social Computing"
+        "Social Computing",
         "Data Security and Cryptography"
       ]
     },
@@ -103,7 +103,7 @@
       "studyType": "Bachelor Of Engineering (B.E)",
       "startDate": "08-01-2010",
       "endDate": "07-31-2014",
-      "gpa": "3.6",
+      "gpa": "3.6"
     }
   ],
   "work": [
@@ -113,7 +113,7 @@
       "website": "http://www.ics.hawaii.edu",
       "startDate": "2019",
       "endDate": "present",
-      "summary": "Teaching assistant for undergraduate courses in ICS Department"
+      "summary": "Teaching assistant for undergraduate courses in ICS Department",
       "highlights": [
         "ICS 314(Fall 2019) - Run weekly practice WOD sessions, office hours and grading",
         "ICS 415(Fall 2019) - Office hours and grading"
@@ -162,7 +162,7 @@
       "date": "2015",
       "awarder": " Sonata Software Limited, INDIA",
       "summary": "Awarded to the top 5 contestants in Database Coding Competition among 283 participants"
-    },
+    }
   ],
   "references": [
     {
