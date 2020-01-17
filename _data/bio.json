@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Rashmi Arvety Ramanatha",
+    "label": "Graduate Student",
+    "picture": "https://rashmiar.github.io/images/photo.png",
+    "email": "rashmiar@hawaii.edu",
+    "phone": "808-542-4895",
+    "website": "https://rashmiar.github.io",
+    "summary": "I am studying M.S in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "RashmiAR",
+        "url": "http://github.com/RashmiAR"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Rashmi A.R",
+        "url": "http://linkedin.com/in/rashmiarvety"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Rashmi.Arvety",
+        "url": "http://instagram.com/rashmi.arvety"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Cloud Computing",
       "keywords": [
       ]
     }
@@ -63,10 +56,19 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "C#",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "AngularJS",
+        "Meteor/React",
+        "ASP.NET",
+        "ASP.NET MVC",
+        "ASP.NET CORE",
+        "HTML/CSS",
+        "R",
+        "XML/XPath",
+        "Microsoft Azure",
+        "AWS S3",
+        "Jasmine Karma Test Framework"
       ]
     },
     {
@@ -74,91 +76,93 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Team Foundation Server",
+        "Microsoft Visual Studio Team Services",
+        "Gephi",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Information and Computer Science (expected Fall, 2020)",
+      "studyType": "M.S.",
+      "startDate": "08-26-2019",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
+        "Network Science",
+        "Social Computing"
+        "Data Security and Cryptography"
       ]
+    },
+    {
+      "institution": "Visveswaraya Technological University, Karnataka, INDIA",
+      "area": "Information Science And Engineering",
+      "studyType": "Bachelor Of Engineering (B.E)",
+      "startDate": "08-01-2010",
+      "endDate": "07-31-2014",
+      "gpa": "3.6",
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Teaching Assistant,
+      "website": "http://www.ics.hawaii.edu",
+      "startDate": "2019",
+      "endDate": "present",
+      "summary": "Teaching assistant for undergraduate courses in ICS Department"
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "ICS 314(Fall 2019) - Run weekly practice WOD sessions, office hours and grading",
+        "ICS 415(Fall 2019) - Office hours and grading"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Sonata Software Limited, Bengaluru, INDIA",
+      "position": "Systems Analyst",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2018",
+      "summary": "Full stack .Net Developer",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Heartfulness Meditation Center, INDIA",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "Help facilitate meditation at Sonata Software Limited",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Held weekly meditation sessions and workshops at workplace"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Meritorious Award",
+      "date": "2014",
+      "awarder": "BGS Institute Of Technology, INDIA",
+      "summary": "Awarded to the top performing student of each department"
     },
     {
       "title": "First place",
+      "date": "2014",
+      "awarder": "BGS Institute Of Technology, INDIA",
+      "summary": "My team won first place in coding and debugging competition in C."
+    },
+    {
+      "title": "Top5 Contestants in Database Contest",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "awarder": " Sonata Software Limited, INDIA",
+      "summary": "Awarded to the top 5 contestants in Database Coding Competition among 283 participants"
+    },
   ],
   "references": [
     {
