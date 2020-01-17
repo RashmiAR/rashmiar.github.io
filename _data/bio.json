@@ -68,7 +68,10 @@
         "XML/XPath",
         "Microsoft Azure",
         "AWS S3",
-        "Jasmine Karma Test Framework"
+        "Jasmine Karma Test Framework",
+        "SQL/TSQL",
+        "MongoDB",
+        "Couchbase"
       ]
     },
     {
@@ -127,8 +130,8 @@
       "endDate": "2018",
       "summary": "Full stack .Net Developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Develop web development portals using .net frameworks for various clients",
+        "Involved in coding for different modules for different clients, writing unit and integration tests and deployment of the web portal"
       ]
     }
   ],
