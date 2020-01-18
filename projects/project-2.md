@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/LuCAS.png
+title: LuCAS
+permalink: projects/lucas
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018
 labels:
-  - Javascript
-  - Meteor
+  - C#
+  - Asp.Net Core
+  - Asp.Net Web API
+  - Angular JS
   - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - AWS
+  - VSTS
+summary: A responsive web application for LuCAS which is into insurance and claim management, I was a full stack .net developer in a team size of 54 people.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/LuCAS.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+LuCAS is a web application that LuCAS provides legal administrative services for class action settlements and other claims administration, mass
+tort, solicitation, legal noticing programs, and bankruptcy cases worldwide. It serves law firms, corporate legal departments, government agencies, and other legal professionals. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+My responsibilities in the project was to understand the business requirements, estimate the backlog and implement business logic and business objects using C# and Angular in agile process. I created Amazon Lambda compatible web API's, developed client-side Angular components and document management using Amazon S3 buckets, created C# Unit test cases using NSubstitute and writing specs for Angular components with Jasmine and Karma frameworks and created Integration tests and was involved in build and deployment of the backlogs. It was a wonderful experience to learn and work on new technologies which I hadn't worked before. In this project I gained experience on Asp.net Core, MongoDB and AWS and Angular 4.0 for front-end.
