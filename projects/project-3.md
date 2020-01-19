@@ -8,12 +8,12 @@ permalink: projects/frp
 date: 2017-12-10
 labels:
   - C#
-   - Asp.Net MVC
-   - Asp.Net Web API
-   - JQuery
-   - Couchbase
-   - Microsoft Azure
-   - GitHub
+  - Asp.Net MVC
+  - Asp.Net Web API
+  - JQuery
+  - Couchbase
+  - Microsoft Azure
+  - GitHub
 summary: Project Lead for a team of four people. Responsible for end to end deployment of the web portal.
 ---
 
