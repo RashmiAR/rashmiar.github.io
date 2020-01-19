@@ -5,7 +5,7 @@ image: images/LuCAS.png
 title: LuCAS
 permalink: projects/lucas
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-12-10
 labels:
   - C#
   - Asp.Net Core

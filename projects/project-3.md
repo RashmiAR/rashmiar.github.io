@@ -5,7 +5,7 @@ image: images/FRP.png
 title: Fresher's Recruitment Platform
 permalink: projects/frp
 # All dates must be YYYY-MM-DD format!
-date: 2017 - 2018
+date: 2017-12-10
 labels:
   - C#
    - Asp.Net MVC

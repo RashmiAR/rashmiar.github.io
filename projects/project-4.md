@@ -5,7 +5,7 @@ image: images/AnalyzOR.png
 title: AnalyzOR
 permalink: projects/analyzor
 # All dates must be YYYY-MM-DD format!
-date: 2016 - 2017
+date: 2016-12-10
 labels:
   - C#
    - Asp.Net MVC

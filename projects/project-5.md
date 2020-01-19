@@ -5,7 +5,7 @@ image: images/BOLT.png
 title: BOLT
 permalink: projects/bolt
 # All dates must be YYYY-MM-DD format!
-date: 2015
+date: 2015-12-10
 labels:
    - C#
    - Asp.Net MVC
