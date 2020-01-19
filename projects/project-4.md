@@ -8,12 +8,12 @@ permalink: projects/analyzor
 date: 2016-12-10
 labels:
   - C#
-   - Asp.Net MVC
-   - Asp.Net Web API
-   - JQuery
-   - Kendo UI
-   - SQL Server 2014
-   - GitHub
+  - Asp.Net MVC
+  - Asp.Net Web API
+  - JQuery
+  - Kendo UI
+  - SQL Server 2014
+  - GitHub
 summary: Full stack .net developer in a team of eight members.
 ---
 
