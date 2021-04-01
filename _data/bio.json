@@ -2,7 +2,7 @@
   "basics": {
     "name": "Rashmi Arvety Ramanatha",
     "label": "Graduate Student",
-    "picture": "https://rashmiar.github.io/images/photo.jpg",
+    "picture": "https://rashmiar.github.io/images/RashmiPhoto.jpg",
     "email": "rashmiar@hawaii.edu",
     "phone": "808-542-4895",
     "website": "https://rashmiar.github.io",
@@ -39,7 +39,7 @@
       ]
     },
      {
-      "name": "Cloud Computing",
+      "name": "Social Computing",
       "keywords": [
       ]
     }
@@ -87,11 +87,17 @@
       "area": "Information and Computer Science (expected Fall, 2020)",
       "studyType": "M.S.",
       "startDate": "2019",
-      "endDate": "Present",
+      "endDate": "2021",
+      "gpa": "4.0",
       "courses": [
         "Network Science",
         "Social Computing",
-        "Data Security and Cryptography"
+        "Data Security and Cryptography",
+        "Fundamentals of Machine Learning",
+        "Data Science Fundamentals",
+        "Advanced Network Algorithms",
+        "EvolutionaryComputation",
+        "Software Quality Assurance"
       ]
     },
     {
@@ -100,7 +106,7 @@
       "studyType": "Bachelor Of Engineering (B.E)",
       "startDate": "2010",
       "endDate": "2014",
-      "gpa": "3.6"
+      "gpa": "3.7"
     }
   ],
   "work": [
@@ -112,7 +118,8 @@
       "endDate": "Present",
       "summary": "Teaching assistant for undergraduate courses in ICS Department",
       "highlights": [
-        "ICS 314(Fall 2019) - Run weekly practice WOD sessions, office hours and grading",
+        "ICS 311(Fall 2020) - Help students with in-class problems and assignments",
+        "ICS 314(Fall 2019, Spring 2020) - Run weekly practice WOD sessions, office hours and grading",
         "ICS 415(Fall 2019) - Office hours and grading"
       ]
     },
